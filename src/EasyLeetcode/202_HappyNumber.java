@@ -1,0 +1,46 @@
+import java.util.HashSet;
+import java.util.Scanner;
+import java.util.Set;
+
+class Solution {
+    public boolean isHappy(int n) {
+        Set<Integer> set = new HashSet<>();
+        if (atul(n, set) == 0) {
+            return false;
+        } else {
+            return true;
+        }
+    }
+
+    public int atul(int num, Set<Integer> set) {
+        int cpy = num;
+        if (cpy == 1) return 1;
+
+        int val = 0;
+        while (cpy != 0) {
+            int last = cpy % 10;
+            val += Math.pow(last, 2);
+            cpy /= 10;
+        }
+
+        if (set.contains(num)) {
+            return 0;
+        } else {
+            set.add(num);
+            return atul(val, set);
+        }
+    }
+
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter the Number: ");
+        int n = sc.nextInt();
+
+        boolean result = solution.isHappy(n);
+        System.out.println(n + " is a happy number? " + result);
+
+        sc.close();
+    }
+}
