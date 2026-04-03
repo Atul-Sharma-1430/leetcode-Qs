@@ -11,6 +11,9 @@ class RomanToNumber {
         String roman = sc.nextLine();
 
         System.out.println("Integer value: " + romanToInt(roman));
+
+        sc.close();
+        
     }
 
     static int romanToInt(String roman) {
