@@ -18,6 +18,7 @@ class UglyNumber {
         sc.close();
     }
 
+    // TC = O(log n), SC = O(1)
     public static boolean isUgly(int n) {
         if (n <= 0) return false;
 
