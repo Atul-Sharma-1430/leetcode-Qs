@@ -1,6 +1,8 @@
+package EasyLeetcode;
 import java.math.BigInteger;
 import java.util.Scanner;
 
+// TC = O(n*m), SC = O(n+m)
 class MultiplyStrings {
 
     public String multiply(String num1, String num2) {

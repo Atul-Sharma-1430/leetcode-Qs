@@ -5,6 +5,9 @@ import java.util.Map;
 import java.util.Scanner;
 
 class SingleNumber2 {
+
+    // Not Optimal
+    // TC = O(n), SC = O(n)
     public int singleNumber(int[] arr) {
         Map<Integer, Integer> map = new HashMap<>();
         int ans = 0;
@@ -20,6 +23,19 @@ class SingleNumber2 {
         }
 
         return ans;
+    }
+
+    // Optimal
+    // TC = O(n), SC = O(1)
+    public int singleNumberOptimal(int[] nums) {
+        int ones = 0, twos = 0;
+
+        for (int num : nums) {
+            ones = (ones ^ num) & ~twos;
+            twos = (twos ^ num) & ~ones;
+        }
+
+        return ones;
     }
 
     public static void main(String[] args) {

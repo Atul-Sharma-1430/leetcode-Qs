@@ -3,6 +3,8 @@ import java.math.BigInteger;
 import java.util.Arrays;
 import java.util.Scanner;
 
+// Brute Force
+// TC = O(n), SC = O(n)
 class PlusOne {
     public int[] plusOne(int[] digits) {
         StringBuilder sb = new StringBuilder();
@@ -18,6 +20,28 @@ class PlusOne {
         for (int i = 0; i < newStr.length(); i++) {
             result[i] = newStr.charAt(i) - '0';
         }
+
+        return result;
+    }
+
+    // Optimal
+    // TC = O(n), SC = O(1)
+    public int[] plusOneOptimal(int[] digits) {
+
+        int n = digits.length;
+
+        for (int i = n - 1; i >= 0; i--) {
+
+            if (digits[i] < 9) {
+                digits[i]++;
+                return digits;
+            }
+
+            digits[i] = 0;
+        }
+
+        int[] result = new int[n + 1];
+        result[0] = 1;
 
         return result;
     }

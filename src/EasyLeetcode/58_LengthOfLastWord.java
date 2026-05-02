@@ -1,5 +1,6 @@
 package EasyLeetcode;
 
+// TC = O(n), SC = O(1)
 class LengthOfLastWord {
     public int lengthOfLastWord(String s) {
         int i = s.length() - 1;

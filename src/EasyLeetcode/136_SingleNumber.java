@@ -3,6 +3,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 class SingleNumber {
+
+    // Not Optimal
+    // TC = O(n), SC = O(n)
     public int singleNumber(int[] arr) {
         Map<Integer, Integer> map = new HashMap<>();
         int ans = 0;
@@ -15,6 +18,19 @@ class SingleNumber {
                 ans = key;
             }
         }
+        return ans;
+    }
+
+    // Optimal
+    // TC = O(n), SC = O(1)
+    public int singleNumbeOptimal(int[] nums) {
+
+        int ans = 0;
+
+        for (int num : nums) {
+            ans ^= num;
+        }
+
         return ans;
     }
 

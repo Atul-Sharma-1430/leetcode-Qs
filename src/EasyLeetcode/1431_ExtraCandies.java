@@ -2,6 +2,7 @@ package EasyLeetcode;
 import java.util.ArrayList;
 import java.util.List;
 
+// TC = O(n), SC = O(n)
 class ExtraCandies {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         List<Boolean> output = new ArrayList<>();

@@ -1,6 +1,7 @@
 package HardLeetCode;
 
 class Solution {
+    // TC = O(m + n), SC = O(m + n)
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int[] sortedArray = new int[nums1.length + nums2.length];
         int pointer1 = 0, pointer2 = 0;

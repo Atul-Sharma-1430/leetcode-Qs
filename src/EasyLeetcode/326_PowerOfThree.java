@@ -1,6 +1,7 @@
 package EasyLeetcode;
 
 import java.util.Scanner;
+
 // TC = O(1), SC = O(1)
 class PowerOfThree {
 

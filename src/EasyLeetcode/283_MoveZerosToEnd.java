@@ -3,6 +3,8 @@ package EasyLeetcode;
 import java.util.Scanner;
 
 class MoveZerosToEnd {
+
+    // TC = O(n), SC = O(1)
     public static void main(String... arguments) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the size of the array:");
@@ -35,6 +37,23 @@ class MoveZerosToEnd {
             System.out.print(num + " ");
         }
         sc.close();
+    }
+
+    // Optimal
+    // TC = O(n), SC = O(1)
+    public void moveZeroes(int[] nums) {
+
+        int index = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] != 0) {
+                nums[index++] = nums[i];
+            }
+        }
+
+        while (index < nums.length) {
+            nums[index++] = 0;
+        }
     }
 
 

@@ -1,5 +1,6 @@
 package EasyLeetcode;
-
+//Brute Force
+// TC = O(n² log n), SC = O(log n)
 class StrictlyPalindromicNumber {
     static public boolean isStrictlyPalindromic(int n) {
         for(int i = 2; i <= n-2; i++) {
@@ -24,6 +25,13 @@ class StrictlyPalindromicNumber {
             if(str.charAt(i) != str.charAt(str.length() - i - 1)) return false;
         }
         return true;
+    }
+
+
+    //Optimal
+    // TC = O(1), SC = O(1)
+    public boolean isStrictlyPalindromicOptimal(int n) {
+        return false;
     }
 
     public static void main(String[] args) {

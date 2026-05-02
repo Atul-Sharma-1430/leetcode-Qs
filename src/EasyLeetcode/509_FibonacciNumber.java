@@ -1,5 +1,6 @@
 package EasyLeetcode;
 
+// TC = O(2^n), SC = O(n)
 class Fibonacci {
     public int fib(int n) {
         if (n == 0) return 0;

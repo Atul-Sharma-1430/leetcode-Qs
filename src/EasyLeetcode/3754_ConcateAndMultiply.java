@@ -1,5 +1,7 @@
+package EasyLeetcode;
 import java.util.Scanner;
 
+// TC = O(d), SC = O(1)
 class ConcateAndMultiply {
 
     public long sumAndMultiply(int n) {

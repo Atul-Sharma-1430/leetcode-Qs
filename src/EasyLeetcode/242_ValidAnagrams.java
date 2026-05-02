@@ -22,7 +22,9 @@ class ValidAnagrams {
         sc.close();
     }
 
-   boolean isAnagram(String s, String t) {
+    // Not Optimal
+    // TC = O(n), SC = O(n)
+    boolean isAnagram(String s, String t) {
 
         if (s.length() != t.length()) return false;
 
@@ -41,4 +43,27 @@ class ValidAnagrams {
         return map1.equals(map2);
     }
 
+
+    // Optimal
+    // TC = O(n), SC = O(1) or O(26)
+    public boolean isAnagramOptimal(String s, String t) {
+
+        if (s.length() != t.length()) return false;
+
+        int[] freq = new int[26];
+
+        for (char c : s.toCharArray()) {
+            freq[c - 'a']++;
+        }
+
+        for (char c : t.toCharArray()) {
+            freq[c - 'a']--;
+        }
+
+        for (int f : freq) {
+            if (f != 0) return false;
+        }
+
+        return true;
+    }
 }

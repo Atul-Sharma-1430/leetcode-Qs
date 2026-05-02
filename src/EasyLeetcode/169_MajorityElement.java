@@ -2,6 +2,8 @@ package EasyLeetcode;
 import java.util.Arrays;
 import java.util.Scanner;
 
+// Not Optimal
+// TC = O(n log n), SC = O(1)
 class MajorityElement {
     public int majorityElement(int[] nums) {
         Arrays.sort(nums); 
@@ -26,4 +28,27 @@ class MajorityElement {
 
         sc.close();
     }
+
+    // Optimal --> Boyer-Moore
+    public int BoyerMoore(int[] nums) {
+
+        int candidate = 0;
+        int count = 0;
+
+        for (int num : nums) {
+
+            if (count == 0) {
+                candidate = num;
+            }
+
+            if (num == candidate) {
+                count++;
+            } else {
+                count--;
+            }
+        }
+
+        return candidate;
+    }
+
 }

@@ -3,6 +3,8 @@ package EasyLeetcode;
 import java.util.Arrays;
 import java.util.Scanner;
 
+// Brute Force
+// TC = O(n log n), SC = O(1)
 class InsertPosition{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -42,5 +44,27 @@ class InsertPosition{
             }
         }
         return array.length;
+    }
+
+    //Optimal --> Binary Search
+    // TC = O(log n), SC = O(1)
+    public int searchInsert(int[] nums, int target) {
+        int low = 0, high = nums.length - 1;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] == target) {
+                return mid;
+            }
+            else if (nums[mid] < target) {
+                low = mid + 1;
+            }
+            else {
+                high = mid - 1;
+            }
+        }
+
+        return low;
     }
 }

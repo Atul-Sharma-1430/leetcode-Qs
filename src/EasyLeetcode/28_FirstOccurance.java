@@ -1,5 +1,8 @@
+package EasyLeetcode;
 import java.util.Scanner;
 
+// Brute Force
+// TC = O(n * m), SC = O(1)
 class FirstOccurance {
     public int strStr(String s1, String s2) {
         int ptr = 0, index = -1;
@@ -39,5 +42,8 @@ class FirstOccurance {
 
         sc.close();
     }
+
+
+    //Optimal --> KMP
 }
 

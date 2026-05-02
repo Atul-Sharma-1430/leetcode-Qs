@@ -1,6 +1,7 @@
 package MediumLeetcode;
 
 import java.util.Scanner;
+
 class ReverseInteger {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -11,6 +12,7 @@ class ReverseInteger {
         sc.close();
     }
 
+    // TC = O(d), SC = O(1)
     public static long reverse(long x) {
         long rev = 0;
         while (x != 0) {

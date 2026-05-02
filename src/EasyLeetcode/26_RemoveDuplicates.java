@@ -1,6 +1,7 @@
 package EasyLeetcode;
 import java.util.*;
 
+// TC = O(n), SC = O(1)
 class RemoveDuplicates {
     public static int removeDuplicates(int[] nums) {
         int prev = 0;

@@ -1,6 +1,8 @@
 package EasyLeetcode;
 
 import java.util.Scanner;
+
+// TC = O(log n), SC = O(1)
 class PallindromeNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

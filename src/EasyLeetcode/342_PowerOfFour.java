@@ -2,6 +2,7 @@ package EasyLeetcode;
 
 import java.util.Scanner;
 
+// TC = O(1), SC = O(1)
 class PowerOfFour {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

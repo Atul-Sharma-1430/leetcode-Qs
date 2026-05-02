@@ -30,6 +30,8 @@ public class ThreeSum {
 
     }
 
+    // Brute Force
+    // TC = O(n^3), SC = O(k)
     List<int[]> threeSumFunction( int [] array ) {
 
         List<int[]> resultTriplets = new ArrayList<>();

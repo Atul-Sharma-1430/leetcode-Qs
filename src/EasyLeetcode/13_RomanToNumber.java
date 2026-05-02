@@ -3,6 +3,7 @@ package EasyLeetcode;
 import java.util.Scanner;
 import java.util.HashMap;
 
+// TC = O(n), SC = O(1)
 class RomanToNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
