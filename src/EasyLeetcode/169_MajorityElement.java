@@ -1,3 +1,4 @@
+package EasyLeetcode;
 import java.util.Arrays;
 import java.util.Scanner;
 

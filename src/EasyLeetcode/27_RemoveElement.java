@@ -1,3 +1,5 @@
+package EasyLeetcode;
+
 class RemoveElement {
     public static int removeElement(int[] nums, int val) {
         int point = 0;

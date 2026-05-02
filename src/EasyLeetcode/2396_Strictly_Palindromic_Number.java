@@ -1,3 +1,5 @@
+package EasyLeetcode;
+
 class StrictlyPalindromicNumber {
     static public boolean isStrictlyPalindromic(int n) {
         for(int i = 2; i <= n-2; i++) {

@@ -1,3 +1,4 @@
+package EasyLeetcode;
 import java.util.Scanner;
 
 class SQRT {

@@ -1,6 +1,8 @@
+package EasyLeetcode;
+
 import java.util.Scanner;
 
-class Solution {
+class PowerOfTwo {
     public static boolean isPowerOfTwo(int n) {
         if (n <= 0) return false;
         while (n % 2 == 0) {  

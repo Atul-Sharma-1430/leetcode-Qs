@@ -1,4 +1,6 @@
-class Solution {
+package EasyLeetcode;
+
+class LengthOfLastWord {
     public int lengthOfLastWord(String s) {
         int i = s.length() - 1;
         int length = 0;
@@ -16,7 +18,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        LengthOfLastWord solution = new LengthOfLastWord();
 
         String s = "Hello World"; // Example input
         int result = solution.lengthOfLastWord(s);

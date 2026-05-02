@@ -1,8 +1,9 @@
+package EasyLeetcode;
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-class Solution {
+class HappyNum {
     public boolean isHappy(int n) {
         Set<Integer> set = new HashSet<>();
         if (atul(n, set) == 0) {
@@ -32,7 +33,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        HappyNum solution = new HappyNum();
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter the Number: ");
