@@ -24,6 +24,8 @@ class GridSatisfiesCondition {
         return true;
     }
 
+    // TC : O(n2)
+    // SC : (1)
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
