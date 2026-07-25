@@ -1,4 +1,4 @@
-package EasyLeetcode;
+package MediumLeetcode;
 
 import java.util.HashSet;
 import java.util.Scanner;
@@ -8,7 +8,7 @@ class SetMatrixZeroes {
 
     // TC : O(m * n)
     // SC : O(m + n)
-    public static void setZeroes(int[][] matrix) {
+    public static void setZeroesBetter(int[][] matrix) {
 
         Set<Integer> set1 = new HashSet<>(); // Store rows having zero
         Set<Integer> set2 = new HashSet<>(); // Store columns having zero
@@ -54,7 +54,7 @@ class SetMatrixZeroes {
             }
         }
 
-        setZeroes(matrix);
+        setZeroesBetter(matrix);
         System.out.println("Matrix after setting zeroes:");
 
         for (int i = 0; i < rows; i++) {
