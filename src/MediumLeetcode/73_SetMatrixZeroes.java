@@ -8,7 +8,7 @@ class SetMatrixZeroes {
 
     // TC : O(m * n)
     // SC : O(m + n)
-    public static void setZeroesBetter(int[][] matrix) {
+    public static void setZerosBetter(int[][] matrix) {
 
         Set<Integer> set1 = new HashSet<>(); // Store rows having zero
         Set<Integer> set2 = new HashSet<>(); // Store columns having zero
@@ -35,6 +35,39 @@ class SetMatrixZeroes {
         }
     }
 
+    public static void setZerosBrute(int[][] matrix) {
+
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix[i].length; j++) {
+                // If val is zero
+                if (matrix[i][j] == 0) {
+                    // mark entire row -1 where val = 1
+                    for (int k = 0; k < matrix[i].length; k++) {
+                        if (matrix[i][k] != 0) {
+                            matrix[i][k] = -1;
+                        }
+                    }
+
+                    // make entire col -1 where val = 1
+                    for (int k = 0; k < matrix.length; k++) {
+                        if (matrix[k][j] != 0) {
+                            matrix[k][j] = -1;
+                        }
+                    }
+                }
+            }
+        }
+
+        // replace all places of -1 with 0
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix[i].length; j++) {
+                if (matrix[i][j] == -1) {
+                    matrix[i][j] = 0;
+                }
+            }
+        }
+    }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -54,7 +87,7 @@ class SetMatrixZeroes {
             }
         }
 
-        setZeroesBetter(matrix);
+        setZerosBetter(matrix);
         System.out.println("Matrix after setting zeroes:");
 
         for (int i = 0; i < rows; i++) {
