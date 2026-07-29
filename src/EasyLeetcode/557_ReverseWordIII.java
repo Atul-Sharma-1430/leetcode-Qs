@@ -18,9 +18,9 @@ class ReverseWordsInStringIII {
                 i++;
             }
 
-            // Reverse the current word
+            // st j from 1 index previous of i
             int j = i - 1;
-
+            // Reverse the current word
             while (j >= temp) {
                 ans.append(s.charAt(j));
                 j--;
@@ -39,13 +39,48 @@ class ReverseWordsInStringIII {
         return ans.toString();
     }
 
+    // TC : O(n)
+    // SC : O(n)
+    public static String reverseWords2(String s) {
+        char[] array = s.toCharArray();
+
+        int i = 0;
+        while (i < array.length) {
+            int j = i;
+
+            // current word ka end find kro
+            while (j < array.length && array[j] != ' ') {
+                j++;
+            }
+
+            // Reverse kro new pointers bna ke
+            int left = i;
+            int right = j - 1;
+
+            while (left < right) {
+                char temp = array[left];
+                array[left] = array[right];
+                array[right] = temp;
+
+                left++;
+                right--;
+            }
+
+            // Move to the next word
+            i = j + 1;
+        }
+
+        return new String(array);
+    }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a sentence: ");
         String s = sc.nextLine();
 
-        System.out.println("Result: " + reverseWords(s));
+        System.out.println("Method 1: " + reverseWords(s));
+        System.out.println("Method 2: " + reverseWords2(s));
 
         sc.close();
     }
