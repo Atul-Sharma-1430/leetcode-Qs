@@ -18,7 +18,10 @@ class DisappearedNumInArray {
             nums[i] = sc.nextInt();
         }
 
+        System.out.println(findDisappearedNumHashing(nums));
+        System.out.println(findDisappearedNumOptimal(nums));
 
+        sc.close();
     }
 
     // TC : O(n)
