@@ -77,4 +77,54 @@ class ThreeSum {
 
         return new ArrayList<>(set);
     }
+
+    // TC : O(n)
+    // SC : O(1)
+    public static List<List<Integer>> threeSumOptimal(int[] nums) {
+        List<List<Integer>> ans = new ArrayList<>();
+
+        Arrays.sort(nums);
+        int i = 0;
+        while (i < nums.length - 2) {
+            int first = nums[i];
+
+            if (i != 0 && first == nums[i - 1]) {
+                i++;
+                continue;
+            }
+
+            if (nums[i] > 0) {
+                break;
+            }
+
+            int j = i + 1;
+            int k = nums.length - 1;
+
+            while (j < k) {
+                int sum = first + nums[i] + nums[j];
+
+                if (sum < 0) {
+                    j++;
+                } else if (sum > 0) {
+                    k--;
+                } else {
+                    ans.add(new ArrayList<>(Arrays.asList(first, nums[j], nums[k])));
+                    j++;
+                    k--;
+
+                    while (j < k && nums[j] == nums[j + 1]) {
+                        j++;
+                    }
+
+                    while (k > j && nums[k] == nums[k - 1]) {
+                        k--;
+                    }
+                }
+            }
+
+            i++;
+        }
+
+        return ans;
+    }
 }
