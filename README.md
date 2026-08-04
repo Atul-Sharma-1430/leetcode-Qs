@@ -27,6 +27,7 @@ To improve problem-solving skills and prepare for technical interviews.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0018-4sum) |
 | [0392-is-subsequence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0392-is-subsequence) |
 ## String
@@ -40,6 +41,7 @@ To improve problem-solving skills and prepare for technical interviews.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0018-4sum) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -51,4 +53,8 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
