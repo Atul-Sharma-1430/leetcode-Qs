@@ -41,8 +41,14 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0018-4sum) |
+| [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0018-4sum) |
+| [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
