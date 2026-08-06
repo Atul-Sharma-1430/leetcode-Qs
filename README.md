@@ -66,4 +66,12 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0056-merge-intervals) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
