@@ -44,6 +44,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
@@ -81,4 +82,8 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
