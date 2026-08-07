@@ -48,6 +48,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0056-merge-intervals](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -86,4 +87,5 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
