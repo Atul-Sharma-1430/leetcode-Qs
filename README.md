@@ -46,6 +46,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0018-4sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
+| [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -53,10 +54,12 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0018-4sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
+| [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -74,4 +77,8 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
