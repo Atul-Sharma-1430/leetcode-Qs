@@ -50,6 +50,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0056-merge-intervals](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
@@ -93,5 +94,6 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
