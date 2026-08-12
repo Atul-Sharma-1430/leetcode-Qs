@@ -56,6 +56,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -102,4 +103,5 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0540-single-element-in-a-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
