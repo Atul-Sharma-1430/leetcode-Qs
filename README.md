@@ -110,4 +110,8 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1539-kth-missing-positive-number) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
