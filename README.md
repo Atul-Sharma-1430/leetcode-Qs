@@ -36,6 +36,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0392-is-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -70,11 +71,13 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0018-4sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
 ## Greedy
