@@ -37,6 +37,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0392-is-subsequence) |
+| [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
 ## Quicksort
 |  |
 | ------- |
@@ -87,6 +89,7 @@ To improve problem-solving skills and prepare for technical interviews.
 ## Math
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
