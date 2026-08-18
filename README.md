@@ -43,6 +43,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0704-binary-search) |
@@ -84,6 +86,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
 ## Quicksort
 |  |
@@ -111,6 +114,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0875-koko-eating-bananas) |
@@ -122,4 +126,8 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0176-second-highest-salary) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
