@@ -62,6 +62,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0540-single-element-in-a-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -120,6 +121,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
