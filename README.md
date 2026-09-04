@@ -70,6 +70,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1539-kth-missing-positive-number) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +136,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
+| [3903-smallest-stable-index-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
