@@ -71,6 +71,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1539-kth-missing-positive-number](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1539-kth-missing-positive-number) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +138,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
