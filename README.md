@@ -70,6 +70,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1539-kth-missing-positive-number) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
@@ -103,6 +104,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
