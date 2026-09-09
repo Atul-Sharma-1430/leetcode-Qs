@@ -69,6 +69,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1539-kth-missing-positive-number) |
+| [1572-matrix-diagonal-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1572-matrix-diagonal-sum) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3903-smallest-stable-index-i) |
@@ -146,4 +147,8 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
