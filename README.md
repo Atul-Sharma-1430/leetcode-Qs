@@ -59,6 +59,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
@@ -131,6 +132,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0704-binary-search) |
@@ -155,10 +157,12 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1572-matrix-diagonal-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1901-find-a-peak-element-ii) |
 ## Recursion
