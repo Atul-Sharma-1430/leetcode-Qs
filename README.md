@@ -35,6 +35,7 @@ To improve problem-solving skills and prepare for technical interviews.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0392-is-subsequence) |
@@ -49,6 +50,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -169,4 +171,8 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3483-unique-3-digit-even-numbers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
