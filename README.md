@@ -175,4 +175,8 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
