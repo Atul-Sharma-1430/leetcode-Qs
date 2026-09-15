@@ -109,6 +109,7 @@ To improve problem-solving skills and prepare for technical interviews.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0172-factorial-trailing-zeroes) |
 | [0836-rectangle-overlap](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
@@ -171,6 +172,7 @@ To improve problem-solving skills and prepare for technical interviews.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0002-add-two-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
 |  |
@@ -179,6 +181,7 @@ To improve problem-solving skills and prepare for technical interviews.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0707-design-linked-list) |
 ## Design
