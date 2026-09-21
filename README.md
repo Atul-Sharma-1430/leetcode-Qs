@@ -29,6 +29,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0018-4sum) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0392-is-subsequence) |
@@ -186,6 +187,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0002-add-two-numbers) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0237-delete-node-in-a-linked-list) |
