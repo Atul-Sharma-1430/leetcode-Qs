@@ -28,6 +28,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0018-4sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
@@ -52,6 +53,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0004-median-of-two-sorted-arrays](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -85,6 +87,7 @@ To improve problem-solving skills and prepare for technical interviews.
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
