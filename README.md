@@ -42,6 +42,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0242-valid-anagram](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0392-is-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,4 +207,8 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
