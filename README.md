@@ -80,6 +80,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1572-matrix-diagonal-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1572-matrix-diagonal-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1901-find-a-peak-element-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3903-smallest-stable-index-i) |
@@ -120,6 +121,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0836-rectangle-overlap](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3875-construct-uniform-parity-array-i) |
