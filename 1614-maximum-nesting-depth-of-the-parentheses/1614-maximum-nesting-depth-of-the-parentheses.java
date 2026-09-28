@@ -1,7 +1,7 @@
 class Solution {
     public int maxDepth(String s) {
 
-        Stack<Character> stack = new Stack<>();
+        // Stack<Character> stack = new Stack<>();
 
         int depth = 0;
         int maxDepth = 0;
@@ -13,9 +13,6 @@ class Solution {
             // agar opening bracket mila
             if (ch == '(') {
 
-                // opening bracket ko stack mein push karo
-                stack.push('(');
-
                 // and depth 1 se bad jaayega tab
                 depth++;
 
@@ -26,9 +23,6 @@ class Solution {
 
                 // agar closing bracket mila
             } else if (ch == ')') {
-
-                // opening bracket ko stack se remove karo
-                stack.pop();
 
                 // and depth 1 se kam ho jayega
                 depth--;
