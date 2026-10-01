@@ -35,6 +35,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -214,6 +215,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0328-odd-even-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0817-linked-list-components) |
+| [0876-middle-of-the-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
