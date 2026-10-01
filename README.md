@@ -40,6 +40,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0392-is-subsequence) |
@@ -126,6 +127,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0172-factorial-trailing-zeroes) |
 | [0836-rectangle-overlap](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
@@ -142,6 +144,7 @@ To improve problem-solving skills and prepare for technical interviews.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
 ## Binary Search
@@ -222,6 +225,7 @@ To improve problem-solving skills and prepare for technical interviews.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
