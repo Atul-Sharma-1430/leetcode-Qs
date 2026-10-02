@@ -34,6 +34,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -200,6 +201,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
 |  |
@@ -213,6 +215,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0707-design-linked-list) |
@@ -235,6 +238,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0234-palindrome-linked-list) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
