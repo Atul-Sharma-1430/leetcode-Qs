@@ -37,6 +37,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0234-palindrome-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -221,6 +222,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0707-design-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
