@@ -41,6 +41,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0242-valid-anagram) |
@@ -54,6 +55,7 @@ To improve problem-solving skills and prepare for technical interviews.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
 ## Array
@@ -239,6 +241,11 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
