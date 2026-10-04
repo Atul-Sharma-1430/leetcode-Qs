@@ -49,6 +49,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0151-reverse-words-in-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -62,6 +63,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0032-longest-valid-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0678-valid-parenthesis-string) |
 ## Array
 |  |
 | ------- |
@@ -125,6 +127,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0678-valid-parenthesis-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
 ## Quicksort
 |  |
@@ -244,6 +247,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0020-valid-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -252,6 +256,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0020-valid-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
