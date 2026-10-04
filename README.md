@@ -142,6 +142,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0836-rectangle-overlap](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3870-count-commas-in-range) |
@@ -151,6 +152,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
@@ -269,6 +271,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2427-number-of-common-factors) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -277,4 +280,12 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1952-three-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
