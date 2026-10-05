@@ -165,6 +165,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
 ## Binary Search
@@ -203,6 +204,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
