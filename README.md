@@ -98,6 +98,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1572-matrix-diagonal-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1572-matrix-diagonal-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1901-find-a-peak-element-ii) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
@@ -122,6 +123,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
 | [0817-linked-list-components](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0817-linked-list-components) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -295,4 +297,8 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2427-number-of-common-factors) |
+## Counting
+|  |
+| ------- |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 <!---LeetCode Topics End-->
