@@ -46,6 +46,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0020-valid-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0242-valid-anagram) |
