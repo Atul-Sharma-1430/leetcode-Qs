@@ -37,6 +37,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0234-palindrome-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0876-middle-of-the-linked-list) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -56,6 +57,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3136-valid-word](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3136-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -135,6 +137,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0678-valid-parenthesis-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Quicksort
 |  |
 | ------- |
@@ -266,6 +269,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -277,6 +281,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Backtracking
 |  |
 | ------- |
