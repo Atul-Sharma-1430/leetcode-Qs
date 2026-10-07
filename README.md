@@ -69,6 +69,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0392-is-subsequence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0678-valid-parenthesis-string) |
+| [1395-count-number-of-teams](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1395-count-number-of-teams) |
 ## Array
 |  |
 | ------- |
@@ -97,6 +98,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1395-count-number-of-teams](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1395-count-number-of-teams) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1572-matrix-diagonal-sum) |
@@ -315,4 +317,12 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
