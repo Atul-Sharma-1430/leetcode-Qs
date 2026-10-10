@@ -40,6 +40,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0917-reverse-only-letters](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0917-reverse-only-letters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3794-reverse-string-prefix](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3136-valid-word](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3136-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
