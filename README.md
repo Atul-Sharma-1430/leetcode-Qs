@@ -65,6 +65,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1816-truncate-sentence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2000-reverse-prefix-of-word) |
@@ -113,6 +114,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1539-kth-missing-positive-number](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1572-matrix-diagonal-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1816-truncate-sentence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1816-truncate-sentence) |
 | [1901-find-a-peak-element-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1901-find-a-peak-element-ii) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2778-sum-of-squares-of-special-elements) |
