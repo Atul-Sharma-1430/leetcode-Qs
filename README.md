@@ -39,6 +39,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0443-string-compression](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0917-reverse-only-letters) |
+| [1768-merge-strings-alternately](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1768-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -64,6 +65,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
