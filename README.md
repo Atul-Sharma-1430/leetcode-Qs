@@ -113,6 +113,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1901-find-a-peak-element-ii) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
@@ -175,6 +176,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | ------- |
 | [1952-three-divisors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3483-unique-3-digit-even-numbers) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/4010-maximize-pair-strength-using-gcd) |
