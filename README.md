@@ -165,6 +165,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
@@ -182,6 +183,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [2427-number-of-common-factors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3875-construct-uniform-parity-array-i) |
