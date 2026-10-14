@@ -44,6 +44,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [2000-reverse-prefix-of-word](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3794-reverse-string-prefix](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
@@ -124,6 +125,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -291,6 +293,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0067-add-binary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
