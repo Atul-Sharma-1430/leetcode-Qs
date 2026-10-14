@@ -31,6 +31,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0016-3sum-closest](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0151-reverse-words-in-a-string) |
@@ -99,6 +100,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0035-search-insert-position](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -140,6 +142,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0016-3sum-closest](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
@@ -173,6 +176,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
@@ -362,4 +366,8 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1395-count-number-of-teams) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
