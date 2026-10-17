@@ -125,6 +125,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1901-find-a-peak-element-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1901-find-a-peak-element-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -193,6 +194,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0836-rectangle-overlap](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1952-three-divisors) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2427-number-of-common-factors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
