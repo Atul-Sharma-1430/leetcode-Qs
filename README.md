@@ -105,6 +105,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0088-merge-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0540-single-element-in-a-sorted-array) |
@@ -231,6 +232,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0540-single-element-in-a-sorted-array) |
@@ -249,6 +251,7 @@ To improve problem-solving skills and prepare for technical interviews.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3904-smallest-stable-index-ii) |
@@ -383,4 +386,8 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
