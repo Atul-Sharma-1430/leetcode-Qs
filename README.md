@@ -78,6 +78,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3136-valid-word](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3136-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3794-reverse-string-prefix) |
@@ -133,6 +134,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -171,6 +173,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0817-linked-list-components](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0817-linked-list-components) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -323,6 +326,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0067-add-binary) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
