@@ -144,6 +144,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [3483-unique-3-digit-even-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3875-construct-uniform-parity-array-i) |
@@ -239,6 +240,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0191-number-of-1-bits](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [4030-check-ascii-palindromic](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/4030-check-ascii-palindromic) |
 ## Binary Search
 |  |
