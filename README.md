@@ -140,6 +140,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -171,6 +172,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
@@ -184,6 +186,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -426,4 +429,5 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0209-minimum-size-subarray-sum) |
+| [2747-count-zero-request-servers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
