@@ -40,6 +40,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0443-string-compression](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0917-reverse-only-letters) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1768-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2000-reverse-prefix-of-word) |
@@ -126,6 +127,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1395-count-number-of-teams](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1395-count-number-of-teams) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1539-kth-missing-positive-number) |
@@ -167,6 +169,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0242-valid-anagram](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0645-set-mismatch) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -269,6 +272,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0875-koko-eating-bananas](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1901-find-a-peak-element-ii) |
