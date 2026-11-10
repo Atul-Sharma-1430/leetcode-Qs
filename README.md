@@ -95,6 +95,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0678-valid-parenthesis-string) |
 | [1395-count-number-of-teams](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1395-count-number-of-teams) |
+| [3693-climbing-stairs-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3693-climbing-stairs-ii) |
 ## Array
 |  |
 | ------- |
@@ -150,6 +151,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
