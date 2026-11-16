@@ -79,6 +79,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2409-count-days-spent-together) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3136-valid-word](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3136-valid-word) |
@@ -355,6 +356,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0067-add-binary) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3498-reverse-degree-of-a-string) |
