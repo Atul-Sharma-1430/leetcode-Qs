@@ -82,6 +82,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2409-count-days-spent-together) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3136-valid-word](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3136-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3794-reverse-string-prefix) |
