@@ -85,6 +85,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3136-valid-word](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3136-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3498-reverse-degree-of-a-string) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3794-reverse-string-prefix](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3794-reverse-string-prefix) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [4030-check-ascii-palindromic](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/4030-check-ascii-palindromic) |
@@ -236,6 +237,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [2427-number-of-common-factors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3789-minimum-cost-to-acquire-required-items) |
