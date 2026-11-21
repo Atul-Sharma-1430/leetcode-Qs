@@ -66,6 +66,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0856-score-of-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1360-number-of-days-between-two-dates) |
@@ -372,6 +373,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0678-valid-parenthesis-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
