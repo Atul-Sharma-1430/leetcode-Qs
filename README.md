@@ -133,6 +133,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1395-count-number-of-teams](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1395-count-number-of-teams) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -230,6 +231,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1352-product-of-the-last-k-numbers) |
 | [1360-number-of-days-between-two-dates](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1360-number-of-days-between-two-dates) |
 | [1903-largest-odd-number-in-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1952-three-divisors) |
@@ -302,6 +304,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0410-split-array-largest-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3904-smallest-stable-index-ii) |
@@ -353,6 +356,7 @@ To improve problem-solving skills and prepare for technical interviews.
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0707-design-linked-list) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1352-product-of-the-last-k-numbers) |
 ## Geometry
 |  |
 | ------- |
@@ -447,4 +451,8 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0209-minimum-size-subarray-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0209-minimum-size-subarray-sum) |
 | [2747-count-zero-request-servers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3364-minimum-positive-sum-subarray) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
