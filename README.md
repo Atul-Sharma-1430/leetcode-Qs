@@ -80,6 +80,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2409-count-days-spent-together) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2744-find-maximum-number-of-string-pairs) |
