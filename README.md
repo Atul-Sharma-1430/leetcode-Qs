@@ -155,6 +155,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -240,6 +241,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [2409-count-days-spent-together](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -257,6 +259,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [2427-number-of-common-factors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3886-sum-of-sortable-integers) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -408,6 +411,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | ------- |
 | [1952-three-divisors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3411-maximum-subarray-with-equal-products) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Prime Factorization
 |  |
@@ -451,6 +455,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [0209-minimum-size-subarray-sum](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/0209-minimum-size-subarray-sum) |
 | [2747-count-zero-request-servers](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Data Stream
 |  |
 | ------- |
