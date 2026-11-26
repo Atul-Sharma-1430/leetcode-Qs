@@ -241,6 +241,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [2409-count-days-spent-together](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
@@ -371,6 +372,7 @@ To improve problem-solving skills and prepare for technical interviews.
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atul-Sharma-1430/leetcode-Qs/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
